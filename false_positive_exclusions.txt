@@ -14,12 +14,12 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 Odysee
 OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,7 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
