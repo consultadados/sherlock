@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -13,10 +14,13 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+HudsonRock
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
