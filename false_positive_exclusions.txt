@@ -8,6 +8,7 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,7 +19,6 @@ Hashnode
 Hubski
 Instapaper
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
