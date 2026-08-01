@@ -5,10 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,13 +14,16 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -33,7 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
