@@ -5,6 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -16,8 +18,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -27,10 +29,12 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -44,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
