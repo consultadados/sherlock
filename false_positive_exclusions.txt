@@ -14,11 +14,14 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
 Odysee
+OurDJTalk
+PCGamer
 Patched
 Pornhub
 Rarible
@@ -29,9 +32,11 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
