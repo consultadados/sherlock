@@ -1,6 +1,7 @@
 7Cups
 APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -10,17 +11,18 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -36,10 +38,8 @@ Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -51,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
