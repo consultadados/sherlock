@@ -3,8 +3,10 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -17,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -47,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
