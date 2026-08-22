@@ -3,10 +3,8 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
-CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -15,6 +13,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -33,6 +32,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
