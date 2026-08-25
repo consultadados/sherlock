@@ -1,11 +1,14 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,10 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
-Minecraft
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
