@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,7 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
@@ -35,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
