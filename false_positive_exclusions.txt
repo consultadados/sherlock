@@ -9,7 +9,6 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,6 +21,8 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -37,6 +38,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
