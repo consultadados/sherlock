@@ -1,11 +1,14 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
+Carbonmade
 Championat
+Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
@@ -14,10 +17,10 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Heavy-R
 Houzz
 Hubski
 Instapaper
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -49,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
