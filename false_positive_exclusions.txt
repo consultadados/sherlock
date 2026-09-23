@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -14,13 +13,14 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Forum Ophilia
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+Linktree
 ObservableHQ
 Odysee
 PCGamer
