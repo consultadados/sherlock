@@ -3,12 +3,12 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Bandcamp
 Blogger
-BoardGameGeek
 CGTrader
 Championat
+Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -16,16 +16,17 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Google Play
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 Trovo
 TryHackMe
@@ -46,6 +46,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
