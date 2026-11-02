@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,11 +21,9 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -34,8 +33,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
