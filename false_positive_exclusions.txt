@@ -1,29 +1,22 @@
 APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
-Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Linktree
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -47,4 +40,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
