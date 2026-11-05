@@ -2,6 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -13,9 +14,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -41,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
