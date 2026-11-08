@@ -1,8 +1,8 @@
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -10,11 +10,11 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,7 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+TnAFlix
 TryHackMe
 Velomania
 Vero
