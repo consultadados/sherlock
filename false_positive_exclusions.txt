@@ -14,9 +14,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
@@ -28,7 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-TnAFlix
+Trakt
 TryHackMe
 Velomania
 Vero
