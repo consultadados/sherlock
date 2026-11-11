@@ -1,9 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -15,7 +13,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -23,8 +20,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
