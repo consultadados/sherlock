@@ -3,12 +3,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
@@ -16,9 +13,12 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,7 +37,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
