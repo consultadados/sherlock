@@ -3,20 +3,20 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
+Audiojungle
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -44,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
